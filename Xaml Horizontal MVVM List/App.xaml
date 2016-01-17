@@ -1,0 +1,10 @@
+﻿<Application
+    x:Class="Xaml_Horizontal_MVVM_List.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Xaml_Horizontal_MVVM_List"
+    RequestedTheme="Light">
+
+    <!--Created by Zayen Chagra    Twitter @zayenChagra -->
+
+</Application>
